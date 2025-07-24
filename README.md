@@ -19,3 +19,4 @@ This is the **third project** in a series of small games built as hands-on pract
 ## Built With
 
 - [Unreal Engine 5.2](https://www.unrealengine.com/)
+    - [PaperZD Plugin](https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0)
